@@ -6,7 +6,7 @@ const HomePage = () => {
   return (
     <div className="overflow-hidden">
       <Home />
-      <Footer />
+     
     </div>
   )
 }
